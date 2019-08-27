@@ -1,0 +1,9 @@
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.gomeltrans_net_Parser.resources
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.Properties.Resources.resources
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.csproj.GenerateResource.Cache
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\bin\Debug\gomeltrans_net_parser.exe.config
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\bin\Debug\gomeltrans_net_parser.exe
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\bin\Debug\gomeltrans_net_parser.pdb
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.exe
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.pdb
+D:\Projects\GoogleDrive\Programming\C#\gomeltrans_net_parser\gomeltrans_net_parser\obj\Debug\gomeltrans_net_parser.csprojResolveAssemblyReference.cache
